@@ -1,8 +1,8 @@
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
-import enUS from './enUS'
-import esES from './esEs'
-import ja from './ja'
+import enUS from '../locales/enUS'
+import esES from '../locales/esEs'
+import ja from '../locales/ja'
 
 const resources = {
   'en-US': enUS,
